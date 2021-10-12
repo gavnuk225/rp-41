@@ -23,6 +23,7 @@ $nick = "wqf";
             <p>Пользователь</p>
               <img id="switch" src="img/switch.png" onclick="invis()">
             <p>Админ</p>
+            <p>Jopa</p>
         </div>
             <div class="registration">
             <a href="php/registre.php"><p id="p_reg" class="auto">Регистрация</p></a>
